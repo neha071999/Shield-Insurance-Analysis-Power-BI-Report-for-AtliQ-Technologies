@@ -82,7 +82,7 @@ This page focuses on how different age segments interact with policies:<br />
 - City Strategy: Replicate Delhi NCR’s approach in other metros<br />
 - Risk Control: Implement smarter pricing for high-settlement age groups<br />
 
-**Novypro Shield Insurance Analysis:** [Access Live Report Link]()<br />
+**Novypro Shield Insurance Analysis:** [Access Live Report Link](https://www.novypro.com/create_project/shield-insurance-analysis-9)<br />
 [PDF](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Shield_Insurance_Analysis%20-%20Power%20BI_Presentation_Report.pdf)
 
 ### Thank You!
