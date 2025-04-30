@@ -1,7 +1,7 @@
 # Shield Insurance Analysis Power BI Report for AtliQ Technologies
 This project is a part of my internship with Atliq Technologies, guided by the Codebasics Power BI Job-Ready Program. The project aims to analyze and deliver data-driven insights for Shield Insurance, a fictional company offering coverage to both individuals and businesses.<br /><br />
 
-**Shield Insurance Analysis:** [Access Live Report Link]()<br />
+**Shield Insurance Analysis:** [Access Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMTIxZjgxODctN2M0My00Y2E3LTkyZjYtZWE0NGYzZjA2OGQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)<br />
 **Project Presentation:** [Audio Presentation]()
 
 ## About the Company
