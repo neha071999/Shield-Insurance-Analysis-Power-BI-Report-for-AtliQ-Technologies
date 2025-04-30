@@ -44,7 +44,7 @@ The Home page acts as a navigation panel and welcome screen for users. It includ
   - Overview<br />
   - Sales Mode Analysis<br />
   - Age Group Analysis<br />
-![Home Page](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Home%20View.png)<br />
+![Home Page](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Home%20View.png)<br /><br />
 
 **Overview**<br />
 This page summarizes the overall business performance with key metrics and visuals:<br />
@@ -53,7 +53,7 @@ This page summarizes the overall business performance with key metrics and visua
 - **Revenue Split**: By City<br />
 - **Customer Segmentation**: Shows distribution of customers and revenue across cities<br />
 - **Trend by Months**: Line chart tracking total revenue over the last six months<br />
-![Overview](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Overview.png)<br />
+![Overview](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Overview.png)<br /><br />
 
 **Sales**<br />
 This page analyzes how different sales channels perform:<br />
@@ -64,7 +64,7 @@ This page analyzes how different sales channels perform:<br />
   - Online-Website<br />
 - **Revenue Split by Sales Mode**: Corresponding revenue distribution<br />
 - **Trend of Sales Mode Over Months**: Line chart comparing each mode's monthly revenue over time<br />
-![Sales](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Sales.png)<br />
+![Sales](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Sales.png)<br /><br />
 
 **Age Group**<br />
 This page focuses on how different age segments interact with policies:<br />
@@ -73,7 +73,7 @@ This page focuses on how different age segments interact with policies:<br />
 - **Age Group vs Sales Mode**: Stacked bar showing sales mode preference by age<br />
 - **Customers by Age Group**: Horizontal bar graph for customer count<br />
 - **Monthly Trends by Age Group**: Area chart visualizing age group activity over time<br />
-![Age Group](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Age%20Group.png)<br />
+![Age Group](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Age%20Group.png)<br /><br />
 
 ## Final Recommendations
 - Retain & Upsell: Focus on 31–40 age group with personalized plans<br />
