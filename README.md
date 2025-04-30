@@ -33,7 +33,7 @@ Shield Insurance is a trusted insurance provider in India offering comprehensive
 ## Data Modelling and Relationships
 Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.<br /><br />
 In this project, we followed the **Star Schema** data modeling method.<br /><br />
-![Data Model]()<br /><br />
+![Data Model](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Data%20Model.png)<br /><br />
 
 ## Report Overview
 **Home**<br />
