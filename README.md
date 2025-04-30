@@ -8,27 +8,27 @@ This project is a part of my internship with Atliq Technologies, guided by the C
 Shield Insurance is a trusted insurance provider in India offering comprehensive and reliable plans. The company is focused on customer satisfaction and helping policyholders feel secure through tailored coverage across all age groups and cities.<br /><br />
 
 ## Business Objective
-The company wanted to analyze:<br />
-Total revenue and customer growth trends<br />
-Daily KPIs for revenue and customer acquisition<br />
-City-wise and age-wise segmentation<br />
-Sales performance by channel<br />
-Age group behavior with policy preferences and settlement expectations<br />
-The goal was to identify key growth areas, optimize product offerings, and enhance sales channel effectiveness.<br />
+- The company wanted to analyze:<br />
+- Total revenue and customer growth trends<br />
+- Daily KPIs for revenue and customer acquisition<br />
+- City-wise and age-wise segmentation<br />
+- Sales performance by channel<br />
+- Age group behavior with policy preferences and settlement expectations<br />
+- The goal was to identify key growth areas, optimize product offerings, and enhance sales channel effectiveness.<br />
 
 ## Data Sources
-The project uses 5 main datasets, structured in a star schema:<br />
-dim_customer.csv → Customer details (city, DOB)<br />
-dim_date.csv → Date hierarchy with months, weekdays, and week numbers<br />
-dim_policies.csv → Policy metadata (base cover, base premium)<br />
-fact_premiums.csv → Premium payments, sales mode<br />
-fact_settlements.csv → Settlement percentages by age<br />
+- The project uses 5 main datasets, structured in a star schema:<br />
+- dim_customer.csv → Customer details (city, DOB)<br />
+- dim_date.csv → Date hierarchy with months, weekdays, and week numbers<br />
+- dim_policies.csv → Policy metadata (base cover, base premium)<br />
+- fact_premiums.csv → Premium payments, sales mode<br />
+- fact_settlements.csv → Settlement percentages by age<br />
 
 ## Tools & Technologies Used
-Power BI Desktop<br />
-DAX & Power Query Editor<br />
-Excel/CSV for Data Source<br />
-Microsoft PowerPoint (for final report)<br />
+- Power BI Desktop<br />
+- DAX & Power Query Editor<br />
+- Excel/CSV for Data Source<br />
+- Microsoft PowerPoint (for final report)<br />
 
 ## Data Modelling and Relationships
 Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.<br /><br />
@@ -44,7 +44,7 @@ The Home page acts as a navigation panel and welcome screen for users. It includ
   - Overview<br />
   - Sales Mode Analysis<br />
   - Age Group Analysis<br />
-![Home Page]()<br />
+![Home Page](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Home%20View.png)<br />
 
 **Overview**<br />
 This page summarizes the overall business performance with key metrics and visuals:<br />
@@ -53,7 +53,7 @@ This page summarizes the overall business performance with key metrics and visua
 - **Revenue Split**: By City<br />
 - **Customer Segmentation**: Shows distribution of customers and revenue across cities<br />
 - **Trend by Months**: Line chart tracking total revenue over the last six months<br />
-![Overview]()<br />
+![Overview](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Overview.png)<br />
 
 **Sales**<br />
 This page analyzes how different sales channels perform:<br />
@@ -64,7 +64,7 @@ This page analyzes how different sales channels perform:<br />
   - Online-Website<br />
 - **Revenue Split by Sales Mode**: Corresponding revenue distribution<br />
 - **Trend of Sales Mode Over Months**: Line chart comparing each mode's monthly revenue over time<br />
-![Sales]()<br />
+![Sales](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Sales.png)<br />
 
 **Age Group**<br />
 This page focuses on how different age segments interact with policies:<br />
@@ -73,7 +73,7 @@ This page focuses on how different age segments interact with policies:<br />
 - **Age Group vs Sales Mode**: Stacked bar showing sales mode preference by age<br />
 - **Customers by Age Group**: Horizontal bar graph for customer count<br />
 - **Monthly Trends by Age Group**: Area chart visualizing age group activity over time<br />
-![Age Group]()<br />
+![Age Group](https://github.com/neha071999/Shield-Insurance-Analysis-Power-BI-Report-for-AtliQ-Technologies/blob/main/Age%20Group.png)<br />
 
 ## Final Recommendations
 - Retain & Upsell: Focus on 31–40 age group with personalized plans<br />
